@@ -11,6 +11,7 @@ function App() {
     <h1>My React App</h1>
     <h2>my react Impliment with CI/CD</h2>
     <h3>with GitHub Action</h3>
+    <p>riya gupta</p>
    </div>
   )
 }
